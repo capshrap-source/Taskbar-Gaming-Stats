@@ -39,3 +39,4 @@ FPS readings are estimates based on desktop frame updates. Exclusive fullscreen 
 Thank you for trying Taskbar Gaming Stats!
 
 **Developed by Shrapnel**
+<img width="1536" height="1024" alt="Taskbar Gaming Stats" src="https://github.com/user-attachments/assets/3dd08fa8-7556-4195-b32a-13cbd141f438" />
